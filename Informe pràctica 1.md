@@ -50,3 +50,5 @@ void loop(){
 Para este ejercicio, hemos definido un segundo *pinMode* en el *setup* donde asignamos otro pin, el número **21**.
 
 En el *loop* añadimos otro *digitalWrite* con el nuevo pin y pedimos al programa que escriba por la Terminal en qué estado se encuentra el LED en ese momento: **"ON"** o **"OFF"**.
+
+## gabi zabala
