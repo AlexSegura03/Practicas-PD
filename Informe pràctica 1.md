@@ -169,3 +169,5 @@ Por lo tanto, el tiempo total que el procesador pasa ejecutando las instruccione
 do que cada retraso *delay(DELAY)* es de 500 ms, el tiempo total que el procesador pasa ejecutando las instrucciones es de 1000 ms (500+500).
 
 El **tiempo libre** del procesador será el tiempo restante en un segundo después de haber ejecutado todas las instrucciones. Dado que el tiempo total de ejecución es de 1000 milisegundos, el tiempo libre del procesador será de 1000 milisegundos (1 segundo) menos el tiempo de ejecución, es decir, 1000 milisegundos - 1000 milisegundos = **0 milisegundos**.
+
+## hola
