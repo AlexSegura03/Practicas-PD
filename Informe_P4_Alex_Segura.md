@@ -48,7 +48,7 @@ vTaskDelete( NULL );
 
 Este código enciende y apaga el led *LED_BUILTIN*, el cual corresponde al LED integrado del ESP32 y emite luz blanca, a través de una tarea (*Task*). Muestra por pantalla del terminal los mensajes asignados a cada tarea para ver que son independientes.
 
-### Inclusión de bibliotecas  
+### Inclusión de librerías
 + **#include <Arduino.h>** 
   
   - Incluye la librería propia de Arduino para utilizar sus funciones y definiciones.
